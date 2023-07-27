@@ -1,0 +1,16 @@
+{
+  "name": "MongooseTeste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SchemaUser.js",
+  "scripts": {
+    "devStart": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.13.20",
+    "nodemon": "^3.0.1"
+  }
+}
